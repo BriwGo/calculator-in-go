@@ -1,1 +1,1 @@
-package maim
+package main
